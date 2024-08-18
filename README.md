@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-JuanJoseTiradoJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-jose-tirado-julca-108b72248/)](https://www.linkedin.com/in/juan-jose-tirado-julca-108b72248/)[![Gmail Badge](https://img.shields.io/badge/-connectwithjuan.tirado490@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connectwithjuan.tirado490@gmail.com)](mailto:connectwithjuan.tirado490@gmail.com)[![GitHub Badge](https://img.shields.io/badge/-@JuanJoseTJ29-%23181717?style=flat-square&logo=github)](https://github.com/JuanJoseTJ29)[![Gmail Badge](https://img.shields.io/badge/-connectwithjuan.tirado@unmsm.edu.pe-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:connectwithjuan.tirado@unmsm.edu.pe)](mailto:connectwithjuan.tirado@unmsm.edu.pe)
 ---
 ## Hola a todos,
-¡Hola a todos! Soy Juan Jose Tirado Julca, bachiller de Ingeniería de Software en la [Universidad Nacional Mayor de San Marcos](https://unmsm.edu.pe/) con deseos de especializarme en el área de Ciencia de Datos, Machine Learning y Cloud Computing.
+¡Hola a todos! Soy Juan Jose Tirado Julca, bachiller de Ingeniería de Software en la [Universidad Nacional Mayor de San Marcos](https://unmsm.edu.pe/) con especialización en las áreas de Ciencia de Datos, Machine Learning, Credit Scoring y Cloud Computing.
 
 
  ## ⚡ Tecnologías
