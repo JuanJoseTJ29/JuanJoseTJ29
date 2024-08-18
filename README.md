@@ -18,8 +18,6 @@
 
 [![Juan Jose Tirado Julca github stats](https://github-readme-stats.vercel.app/api?username=JuanJoseTJ29&show_icons=true&theme=algolia&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseTJ29&bg_color=160deg,485563,29323c&title_color=ffffff&text_color=ffffff&icon_color=fafafa&hide_border=true&langs_count=8&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JuanJoseTJ29.JuanJoseTJ29&title=Visitas%20perfil) 
